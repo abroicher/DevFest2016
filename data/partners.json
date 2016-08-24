@@ -1,0 +1,33 @@
+[
+  {
+    "title": "main-organizer",
+    "logos": [
+      {
+        "name": "GDG Düsseldorf",
+        "url": "https://www.gdg-dus.de",
+        "logoUrl": "../images/gdg-logo.svg",
+        "width": 300
+      }
+    ]
+  },
+  {
+    "title": "general-partner",
+    "logos": [
+      {
+        "name": "Google",
+        "url": "https://www.google.com.ua/intl/en/about/",
+        "logoUrl": "../images/logos/google.svg"
+      },
+      {
+        "name": "Scaratec IT",
+        "url": "https://wwws.scaratec.de",
+        "logoUrl": "../images/logos/SCARATEC_Logo.png"
+      },
+      {
+        "name": "Sipgate GmbH",
+        "url": "https://www.sipgate.de",
+        "logoUrl": "../images/logos/sipgate_logo.png"
+      }
+    ]
+  }
+]

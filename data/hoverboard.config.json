@@ -1,0 +1,204 @@
+{
+  "pages": {
+    "home": {
+      "headerSettings": {
+        "backgroundColor": "#FF9800",
+        "backgroundImage": "/images/backgrounds/GDG_Devfest2014023.jpg",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff",
+        "hideLogo": true,
+        "minHeight": "360px"
+      }
+    },
+    "blog": {
+      "headerSettings": {
+        "backgroundColor": "#03a9f4",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "speakers": {
+      "headerSettings": {
+        "backgroundColor": "#3f51b5",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "schedule": {
+      "headerSettings": {
+        "backgroundColor": "#673ab7",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "team": {
+      "headerSettings": {
+        "backgroundColor": "#009688",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "cod": {
+      "headerSettings": {
+        "backgroundColor": "#673ab7",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    }
+  },
+  "navigation": [
+    {
+      "route": "home",
+      "permalink": "/"
+    },
+    {
+      "route": "blog",
+      "permalink": "/blog/"
+    },
+    {
+      "route": "team",
+      "permalink": "/team/"
+    }
+  ],
+  "url": "https://hoverboard.firebaseapp.com/",
+  "mailchimp": {
+    "url": "https://gdg.us11.list-manage.com/subscribe/post?u=b7e853a79164ddfdbda3ed77b&amp;id=7993e39fbe",
+    "name": "b_b7e853a79164ddfdbda3ed77b_7993e39fbe"
+  },
+  "partnershipProposition": "http://bit.ly/df16-sponsor",
+  "disqusShortName": "",
+  "languages": [
+    {
+      "name": "English",
+      "key": "en"
+    }
+  ],
+  "footerBlocks": [
+    {
+      "title": "for-visitors",
+      "links": [
+        {
+          "text": "team",
+          "url": "/team/"
+        },
+        {
+          "text": "cod",
+          "url": "/cod/"
+        },
+        {
+          "text": "google-developers",
+          "url": "https://developers.google.com/",
+          "newTab": true
+        },
+        {
+          "text": "df-14",
+          "url": "http://www.gdgdus.de/DevFest2014/",
+          "newTab": true
+        }
+      ]
+    }
+  ],
+  "contactBlock": {
+    "links": [
+      {
+        "text": "info@gdg-dus.de",
+        "url": "mailto:info@gdg-dus.de"
+      }
+    ]
+  },
+  "tickets": {
+    "url": "http://2event.com/events/630032",
+    "elements": [
+      {
+        "name": "student-ticket",
+        "price": 500,
+        "currency": "€",
+        "starts": "student-ticket-starts",
+        "ends": "student-ticket-ends",
+        "info": "student-ticket-info",
+        "soldOut": false
+      },
+      {
+        "name": "early-ticket",
+        "price": 750,
+        "currency": "₴",
+        "starts": "early-ticket-starts",
+        "ends": "early-ticket-ends",
+        "info": "early-ticket-info",
+        "soldOut": true
+      },
+      {
+        "name": "lazy-ticket",
+        "price": 1000,
+        "currency": "₴",
+        "starts": "lazy-ticket-starts",
+        "ends": "lazy-ticket-ends",
+        "soldOut": false
+      }
+    ]
+  },
+  "teamPageTitle": "team-page-title",
+  "teamPageText": "team-page-text",
+  "statistics": [
+    {
+      "counter": 250,
+      "caption": "attendees"
+    },
+    {
+      "counter": 2,
+      "caption": "days"
+    },
+    {
+      "counter": 1,
+      "caption": "tracks"
+    }
+  ],
+  "hashtag": "DevFestDus",
+  "social": [
+    {
+      "name": "twitter",
+      "nickname": "gdgduesseldorf",
+      "url": "https://twitter.com/gdgduesseldorf"
+    },
+    {
+      "name": "gplus",
+      "nickname": "+Gdg-dusDe",
+      "url": "https://plus.google.com/+Gdg-dusDe/"
+    }
+  ],
+  "tweetsSource": "/data/tweets.json",
+  "gallery": {
+    "albumUrl": "https://plus.google.com/events/gallery/cc6tosp4ohkp6qj9pg5jb4g6o3k?sort=1",
+    "photos": {
+      "big": "/images/backgrounds/GDG_Devfest2014004.jpg",
+      "small": [
+        "/images/backgrounds/GDG_Devfest2014001.jpg",
+        "/images/backgrounds/GDG_Devfest2014066.jpg"
+      ]
+    }
+  },
+  "location": {
+    "apiKey": "",
+    "link": "https://www.facebook.com/expopivdennij",
+    "pointer": {
+      "latitude": 51.212235,
+      "longitude": 6.755673,
+      "zoom": 15
+    },
+    "mapCenter": {
+      "latitude": 51.211771,
+      "longitude":  6.763699
+    },
+    "images": [
+      "/images/backgrounds/Sipgate_1.JPG",
+      "/images/backgrounds/Sipgate_2.JPG",
+      "/images/backgrounds/Sipgate_3.JPG",
+      "/images/backgrounds/Sipgate_4.JPG"
+    ]
+  },
+  "videosSessionsUrl": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AX3-ONkkWmDOZezu9Cmnv",
+  "callToAction": {
+    "videoTitle": "action-title",
+    "videoId": "DfMnJAzOFng"
+  }
+}

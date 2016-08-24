@@ -1,0 +1,22 @@
+The GDG Düsseldorf DevFest is coming up! 2014 we held a very popular "DevFest", 2015 we took a break - and now it is 2016 and we are back again! 
+Mark the dates! #GDGDus will host Devfest2016, a developer conference, the weekend of October 22 and 23.
+
+We are looking motivated speakers for the conference, speakers who would like to share their wisdom on topics around modern development and/or various technologies with us. Talks can be held in English or German, our community is very international.
+
+We are looking for various inspirational talks, not just pure programmer talks (front-end as well as back-end) but also Usability, Accessibility, Best Practices and general IT topics. We are looking for good mix of talks that attracts many different people in the tech industry.
+
+Possible topics 
+* Web Development (AngularJS, Dart, ...)
+* Cloud (AppEngine, CloudPlatform, ...)
+* Embedded Topics (Android Embedded, Brillo, ...)
+* Firebase
+* Android
+* iOS
+* Tools, Best Practice (did we hear Docker? GitHub?)
+* Anything else related to the tech world - whatever comes to mind, feel free to submit a suggestion!
+
+The topics above are just suggestions - GDG is independent and we are free to decide the topics ourselves, depending on our community. We are looking for topics that will interest and inspire the audience. 
+
+Submit your talk as soon as possible, as we will start the process to pick and plan the schedule in September - you don't need to have everything planned out or prepared yet - we just need to know your idea.
+
+Notice! GDG is independent and not tied to a specific company. We are depending on sponsors and cannot cover any expenses. Devfest is however an excellent opportunity to mingle, get inspired and grow as a techie and developer and we hope that will be rewarding enough. 
