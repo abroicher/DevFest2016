@@ -5,6 +5,15 @@ We are looking motivated speakers for the conference, speakers who would like to
 
 We are looking for various inspirational talks, not just pure programmer talks (front-end as well as back-end) but also Usability, Accessibility, Best Practices and general IT topics. We are looking for good mix of talks that attracts many different people in the tech industry.
 
+<div class="text-center">
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSf-SqNK56x-fjshc9_lc5eQYMPagNNIh4eu7ldOvgnmwhc1EA/viewform?c=0&w=1" target="_blank" class="style-scope header-content" style="color: white; ">
+  <paper-button class="primary style-scope header-content x-scope paper-button-0" raised="" role="button" tabindex="0" animated="" aria-disabled="false" elevation="1">Submit a proposal</paper-button>
+</a>
+</div>
+
+<br/>
+
+
 Possible topics 
 * Web Development (AngularJS, Dart, ...)
 * Cloud (AppEngine, CloudPlatform, ...)

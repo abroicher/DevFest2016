@@ -5,7 +5,6 @@
     "posted": "2016-05-04",
     "primaryColor": "#00BCD4",
     "secondaryColor": "#00BCD4",
-    "image": "/images/posts/announce.jpg",
     "brief": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,"
   },
   {
@@ -14,7 +13,6 @@
     "posted": "2016-05-06",
     "primaryColor": "#3F51B5",
     "secondaryColor": "#3F51B5",
-    "image": "/images/posts/c4p-is-open.jpg",
     "brief": "The GDG Düsseldorf DevFest is coming up! 2014 we held a very popular \"DevFest\", 2015 we took a break - and now it is 2016 and we are back again!Mark the dates! #GDGDus will host Devfest2016, a developer conference, the weekend of October 22 and 23.We are looking motivated speakers for the conference, speakers who would like to share their wisdom on topics around modern development and/or various technologies with us. [Submit your Proposal](https://goo.gl/forms/ICJGuxERKkgMTh9J2)."
   }
 ]
