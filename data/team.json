@@ -43,7 +43,7 @@
           {
             "icon": "gplus",
             "link": "https://plus.google.com/+ResulKocyigit",
-            "name": "Twitter"
+            "name": "G+"
           }
         ],
         "title": "Android Developer"
@@ -54,8 +54,8 @@
         "socials": [
           {
             "icon": "gplus",
-            "link": "https://plus.google.com//110646410849485506802",
-            "name": "Google+"
+            "link": "https://plus.google.com/110646410849485506802",
+            "name": "G+"
           },
           {
             "icon": "facebook",
@@ -66,10 +66,70 @@
             "icon": "twitter",
             "link": "https://www.twitter.com/the-parthy",
             "name": "Twitter"
+          },
+          {
+            "icon": "github",
+            "link": "https://github.com/theparthy",
+            "name": "gitHub"
+          },
+          {
+            "icon": "website",
+            "link": "https://parthy.net",
+            "name": "Website"
           }
         ],
         "title": "Web Developer"
+      },
+      {
+        "name": "Christopher Borchert",
+        "photoUrl": "/images/people/ChristopherB.jpg",
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "https://plus.google.com/+ChristopherBDoktorDoener",
+            "name": "G+"
+          },
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/DoktorDoener",
+            "name": "Twitter"
+          },
+          {
+            "icon": "website",
+            "link": "http://www.app-logik.de",
+            "name": "Website"
+          }
+        ],
+        "title": "Web & Mobile Developer"
+      },
+      {
+        "name": "Frederik Schweiger",
+        "photoUrl": "/images/people/FrederikSchweiger.jpg",
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "https://plus.google.com/+FrederikSchweiger",
+            "name": "G+"
+          },
+          {
+            "icon": "twitter",
+            "link": "https://www.twitter.com/flschweiger",
+            "name": "Twitter"
+          },
+          {
+            "icon": "github",
+            "link": "https://github.com/flschweiger",
+            "name": "gitHub"
+          },
+          {
+            "icon": "website",
+            "link": "http://frederik.link",
+            "name": "Website"
+          }
+        ],
+        "title": "Android Developer"
       }
     ]
   }
 ]
+
