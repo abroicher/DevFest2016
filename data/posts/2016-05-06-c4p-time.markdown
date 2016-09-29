@@ -10,7 +10,7 @@ We are looking for various inspirational talks, not just pure programmer talks (
   <paper-button class="primary style-scope header-content x-scope paper-button-0" raised="" role="button" tabindex="0" animated="" aria-disabled="false" elevation="1">Submit a proposal</paper-button>
 </a>
 </div>
-
+Call for Papers will end September 18!
 <br/>
 
 

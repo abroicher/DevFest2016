@@ -27,6 +27,11 @@
         "name": "Sipgate GmbH",
         "url": "https://www.sipgate.de",
         "logoUrl": "../images/logos/sipgate_logo.png"
+      },
+      {
+        "name": "HRS",
+        "url": "https://www.hrs.de",
+        "logoUrl": "../images/logos/logo_hrs_trans.png"
       }
     ]
   }
