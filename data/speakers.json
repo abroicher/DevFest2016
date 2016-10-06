@@ -129,8 +129,9 @@
     "5": {
         "id": 5,
         "featured": "true",
-        "name": "André Dierman",
+        "name": "André Diermann",
         "title": "Android Hacker",
+		"country": "Essen, Germany",
         "photoUrl": "/images/people/AndreDiermann.jpg",
         "shortBio": "André Diermann is an enthusiastic Android hacker with now more than 7 years of professional ...",
         "bio": "André Diermann is an enthusiastic Android hacker with now more than 7 years of professional experience in Android application development. As freelancer he worked for several companies and participated in international research projects. Today he and his team are engineering enterprise level mobile solutions for national and international companies. He is a strong Software Craftsmanship and Clean Code advocate with passion for Open Source.",
@@ -152,5 +153,48 @@
 				"link": "https://speakerdeck.com/a11n/"
 			}
         ]
-    }
+    },
+	"6": {
+		"id": 6,
+		"featured": "true",
+		"name": "Christoffer Noring",
+		"title": "Google Developer Expert ",
+		"photoUrl": "/images/people/ChristofferNoring.png",
+		"shortBio": "Google Developer Expert in web technologies and Angular. Organizing 5 meetup groups with more than 2 ...",
+		"bio": "Google Developer Expert in web technologies and Angular. Organizing 5 meetup groups with more than 2000 members. Frequent speaker, educator, blogger and developer.",
+		"tags": [
+			"AngularJs",
+			"Web"
+		],
+		"badges": [
+			"GDE"
+		],
+		"socials": [
+			{
+				"icon": "twitter",
+				"name": "Twitter",
+				"link": "https://twitter.com/chris_noring/"
+			},
+			{
+				"icon": "twitter",
+				"name": "Twitter",
+				"link": "https://twitter.com/thelondonjs/"
+			},
+			{
+				"icon": "linkedin",
+				"name": "LinkedIN",
+				"link": "https://www.linkedin.com/in/christoffer-noring-3257061/"
+			},
+			{
+				"icon": "website",
+				"name": "Website",
+				"link": "http://lanyrd.com/profile/chris_noring/"
+			},
+			{
+				"icon": "googleplus",
+				"name": "Google+",
+				"link": "https://plus.google.com/u/0/101118035282447863367/"
+			}
+		]
+	}
 }
