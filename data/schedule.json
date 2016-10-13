@@ -1,141 +1,201 @@
-[{
-    "date": "2016-09-09",
-    "dateReadable": "September 9",
-    "tracks": [{
-        "title": "To Be Annouced"
-    }],
-    "timeslots": [{
-        "startTime": "09:00",
-        "endTime": "10:00",
-        "sessions": [
-            [140]
-        ]
-    }, {
-        "startTime": "10:00",
-        "endTime": "10:15",
-        "sessions": [
-            [140]
-        ]
-    }, {
-        "startTime": "10:15",
-        "endTime": "11:00",
-        "sessions": [
-            [140]
-        ]
-    }, {
-        "startTime": "11:00",
-        "endTime": "11:40",
-        "sessions": [
-            [140]
-        ]
-    }, {
-        "startTime": "11:50",
-        "endTime": "12:30",
-        "sessions": [
-            [140]
-        ]
-    }, {
-        "startTime": "12:30",
-        "endTime": "14:00",
-        "sessions": [
-            [140]
-        ]
-    }, {
-        "startTime": "14:00",
-        "endTime": "14:40",
-        "sessions": [
-            [140]
-        ]
-    }, {
-        "startTime": "14:50",
-        "endTime": "15:30",
-        "sessions": [
-            [140]
-        ]
-    }, {
-        "startTime": "15:30",
-        "endTime": "16:00",
-        "sessions": [
-            [140]
-        ]
-    }, {
-        "startTime": "16:00",
-        "endTime": "16:40",
-        "sessions": [
-            [140]
-        ]
-    }, {
-        "startTime": "16:50",
-        "endTime": "17:30",
-        "sessions": [
-            [140]
-        ]
-    }, {
-        "startTime": "17:40",
-        "endTime": "18:20",
-        "sessions": [
-            [140]
-        ]
-    }, {
-        "startTime": "18:30",
-        "endTime": "22:30",
-        "sessions": [
-            [140]
-        ]
-    }]
-}, {
-    "date": "2016-09-10",
-    "dateReadable": "September 10",
-    "tracks": [{
-        "title": "Expo hall"
-    }],
-    "timeslots": [{
-        "startTime": "09:30",
-        "endTime": "10:10",
-        "sessions": [
-            [140]
-        ]
-    }, {
-        "startTime": "10:10",
-        "endTime": "10:50",
-        "sessions": [
-            [140]
-        ]
-    }, {
-        "startTime": "11:00",
-        "endTime": "11:40",
-        "sessions": [
-            [140]
-        ]
-    }, {
-        "startTime": "11:50",
-        "endTime": "12:30",
-        "sessions": [
-            [140]
-        ]
-    }, {
-        "startTime": "12:30",
-        "endTime": "14:00",
-        "sessions": [
-            [140]
-        ]
-    }, {
-        "startTime": "14:00",
-        "endTime": "14:40",
-        "sessions": [
-            [140]
-        ]
-    }, {
-        "startTime": "14:50",
-        "endTime": "15:30",
-        "sessions": [
-            [140]
-        ]
-    }, {
-        "startTime": "15:30",
-        "endTime": "16:00",
-        "sessions": [
-            [140]
-        ]
-    }]
-}]
+[
+	{
+		"date": "2016-10-22",
+		"dateReadable": "October 22",
+		"tracks": [
+			{
+				"title": "Main Track"
+			},
+			{
+				"title": "Side Track"
+			}
+		],
+		"timeslots": [
+			{
+				"startTime": "10:00",
+				"endTime": "11:00",
+				"sessions": [
+					[
+						111
+					]
+				]
+			},
+			{
+				"startTime": "11:00",
+				"endTime": "12:00",
+				"sessions": [
+					[
+						112
+					]
+				]
+			},
+			{
+				"startTime": "12:00",
+				"endTime": "13:00",
+				"sessions": [
+					[
+						112
+					],
+					[
+						113
+					]
+				]
+			},
+			{
+				"startTime": "13:00",
+				"endTime": "14:00",
+				"sessions": [
+					[
+						201
+					]
+				]
+			},
+			{
+				"startTime": "14:00",
+				"endTime": "15:00",
+				"sessions": [
+					[
+						116
+					]
+				]
+			},
+			{
+				"startTime": "15:00",
+				"endTime": "16:00",
+				"sessions": [
+					[
+						117
+					]
+				]
+			},
+			{
+				"startTime": "16:00",
+				"endTime": "17:00",
+				"sessions": [
+					[
+						118
+					],
+					[
+						119
+					]
+				]
+			},
+			{
+				"startTime": "17:00",
+				"endTime": "18:00",
+				"sessions": [
+					[
+						120
+					],
+					[
+						121
+					]
+				]
+			},
+			{
+				"startTime": "18:00",
+				"endTime": "21:00",
+				"sessions": [
+					[
+						202
+					]
+				]
+			}
+		]
+	},
+	{
+		"date": "2016-10-23",
+		"dateReadable": "October 23",
+		"tracks": [
+			{
+				"title": "Main Track"
+			},
+			{
+				"title": "Side Track"
+			}
+		],
+		"timeslots": [
+			{
+				"startTime": "10:00",
+				"endTime": "11:00",
+				"sessions": [
+					[
+						127
+					]
+				]
+			},
+			{
+				"startTime": "11:00",
+				"endTime": "12:00",
+				"sessions": [
+					[
+						128
+					],
+					[
+						129
+					]
+				]
+			},
+			{
+				"startTime": "12:00",
+				"endTime": "13:00",
+				"sessions": [
+					[
+						130
+					]
+				]
+			},
+			{
+				"startTime": "13:00",
+				"endTime": "14:00",
+				"sessions": [
+					[
+						131
+					],
+					[
+						132
+					]
+				]
+			},
+			{
+				"startTime": "14:00",
+				"endTime": "15:00",
+				"sessions": [
+					[
+						133
+					]
+				]
+			},
+			{
+				"startTime": "15:00",
+				"endTime": "16:00",
+				"sessions": [
+					[
+						135
+					]
+				]
+			},
+			{
+				"startTime": "16:00",
+				"endTime": "17:00",
+				"sessions": [
+					[
+						134
+					]
+				]
+			},
+			{
+				"startTime": "17:00",
+				"endTime": "18:00",
+				"sessions": [
+					[
+						136
+					],
+					[
+						137
+					]
+				]
+			}
+		]
+	}
+]

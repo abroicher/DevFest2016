@@ -1,11 +1,251 @@
 {
-    "140": {
-        "id": 140,
-        "title": "To be announced",
-        "description": "To be announced",
-        "language": "English",
-        "speakers": [
-
-        ]
-    }
+	"200": {
+		"id": 200,
+		"title": "To be announced",
+		"description": "To be announced",
+		"language": "English"
+	},
+	"111": {
+		"id": 111,
+		"title": "Firebase Overview",
+		"description": "Firebase is a mobile platform that helps you quickly develop high-quality apps, grow your user base, and earn more money. It is made up of complementary features that you can mix-and-match to fit your needs. In this session, Tim will run you through the 15 different features that help you build an effectively scaling and high-performing application that works equally well on Android, iOS and the web.",
+		"speakers": [
+			1
+		],
+		"tags": [
+			"Cloud & Server"
+		]
+	},
+	"112": {
+		"id": 112,
+		"title": "Angular 2 fundamentals and the role of rxjs",
+		"description": "Angular 2 just became production ready. It is quite different from angular 1. It is however built with large applications in mind and utlizes most modern web concepts. It is blazingly fast and uses typescript as a first class citizen, just to name a few things. It also uses rxjs in front of promises. It is a different paradigm meant to fix issues with promises. Be prepared to become somewhat wiser as to what all these new concepts add to your developer experience.",
+		"speakers": [
+			6
+		],
+		"tags": [
+			"Web"
+		]
+	},
+	"113": {
+		"id": 113,
+		"title": "FillTheForm 2.0",
+		"description": "",
+		"speakers": [
+			7
+		],
+		"tags": [
+			"Android"
+		]
+	},
+	"114": {
+		"id": 114,
+		"title": "How to do Scrum without killing yourself",
+		"description": "The point of Scrum, how to do it and the results to expect.",
+		"speakers": [
+			8
+		],
+		"tags": [
+			"All"
+		]
+	},
+	"201": {
+		"id": 201,
+		"title": "Lunch",
+		"description": "FOOOOD!!!"
+	},
+	"116": {
+		"id": 116,
+		"title": "Lessons learnt with containers: from Borg to Kubernetes",
+		"description": "Learn how simple it is to deploy and manage your clusters using Kubernetes, the next generation tool built on ten years of experience with containers at Google.",
+		"speakers": [
+			9
+		],
+		"tags": [
+			"Cloud & Server"
+		]
+	},
+	"117": {
+		"id": 117,
+		"title": "Daydreaming about Cardboards: Vr on Android",
+		"description": "On this year's IO Google announced Daydream, a new way of integrating your apps with Virtual Reality. We will talk VR on Android and will be live coding emphasizing the differences and similarities between SDKs. I'll also introduce Daydream. ",
+		"speakers": [
+			10
+		],
+		"tags": [
+			"Android"
+		]
+	},
+	"118": {
+		"id": 118,
+		"title": "Rebuilding an aircraft on the fly",
+		"description": "At trivago we started with an iterative rebuild of our user interface in the beginning of 2015. Next to establishing a pattern library and thereby introducing a Design System we started to rethink the way we build our user interfaces in code and design. We adapted several methologies like Atomic Design, changed our design development workflows, did a CSS refactoring - called Project Ironman - , improved our frontend stack and changed the way we build our assets and started to rebuild the core UI components of our main product in 2016.\n\nThis talk will provide insights in our journey with rebuilding our UI at large scale in an iterative way. It will present the challenges we encountered in code, design and our processes and how we solved them. The outcome will be highlighted with real data and some of our business metrics. However it will also show some of our mistakes we did while integrating the Design System and will present the lessons we have learned out of that.",
+		"speakers": [
+			3
+		],
+		"tags": [
+			"Web"
+		]
+	},
+	"119": {
+		"id": 119,
+		"title": "World Knowledge Map",
+		"description": "Somewhere between Geocaching, Wikipedia and Pokémon Go: why not creating a (game to build up a) World Knowledge Map? \nIt's about an Internet platform and a mobile App that combines collecting and sharing Knowledge with a super-addictive game. Why not hunting Knowledge instead of plastic boxes or virtual bunnies? This talk is about the basic idea of a new game concept and how it could be developed. The audience is asked to participate with criticism, interest and experience. \n\n",
+		"speakers": [
+			11
+		],
+		"tags": [
+			"Android"
+		]
+	},
+	"120": {
+		"id": 120,
+		"title": "Hands-on Realm",
+		"description": "Do you know Realm? Realm is a new, open source, cross-platform mobile database technology. It is used by more than 1 billion people already. Its objective is to simplify, speed-up and improve mobile application development. At least, this is what they state at their website. But do they provide what they promise? And how does it work? What’s so new with Realm?",
+		"speakers": [
+			5
+		],
+		"tags": [
+			"Android"
+		]
+	},
+	"121": {
+		"id": 121,
+		"title": "Use code generation to make better apps",
+		"description": "Always wondered what the big companies like Google, Square or Twitter use when building their apps? Stop wasting your time writing boilerplate code and start using the power of code generation tools and libraries like AutoValue, Dagger, SQLdelight, requery and Annotation processing.",
+		"speakers": [
+			12
+		],
+		"tags": [
+			"Android"
+		]
+	},
+	"202": {
+		"id": 202,
+		"title": "Dinner / Afterparty",
+		"description": ""
+	},
+	"199": {
+		"id": 126,
+		"title": "Doors Open & Breakfeast",
+		"description": ""
+	},
+	"127": {
+		"id": 127,
+		"title": "Build more personal and intelligent applications that see, hear and understand",
+		"description": "",
+		"speakers": [
+			13
+		],
+		"tags": [
+			"Cloud & Server"
+		]
+	},
+	"128": {
+		"id": 128,
+		"title": "Swift on the Server",
+		"description": "",
+		"speakers": [
+			14
+		],
+		"tags": [
+			"Cloud & Server"
+		]
+	},
+	"129": {
+		"id": 129,
+		"title": "Android - Schedule background jobs at the right time",
+		"description": "Android provides three different APIs to run jobs in the future. All of them have their benefits and downsides. Semantic changes between API levels presents an additional challenge for programmers. Not only is it hard to know when to use the proper API, but you will also end up with many different paths in your code all doing the same task for different environments. Your app should be smart and run jobs only when it's the right time and all conditions are met. This talk will give you an overview about all options you have on Android and how to master them in an efficient way.",
+		"speakers": [
+			15
+		],
+		"tags": [
+			"Android"
+		]
+	},
+	"130": {
+		"id": 130,
+		"title": "Make your Polymer web-app Progressive",
+		"description": "Polymer helps you organize your app and make it more meaningful. In this talk, I will show you how to make your app load faster with app shell, lazy loading etc. and another Tip and Tricks in PWA.\n\n",
+		"speakers": [
+			16
+		],
+		"tags": [
+			"Web"
+		]
+	},
+	"131": {
+		"id": 131,
+		"title": "Microservices in Google App Engine",
+		"description": "Microservices is coming with a certain workload and constraints. Let's try to see how Google Cloud Platform and App Engine can help the overall microservices implementation.",
+		"speakers": [
+			17
+		],
+		"tags": [
+			"Cloud & Server"
+		]
+	},
+	"132": {
+		"id": 132,
+		"title": "Grokking Android's ConstraintLayout",
+		"description": "In this talk I'm going to introduce you to the new ConstraintLayout and the new layout editor coming with Android Studio 2.2.\n\nAbout the ConstraintLayout\n- you will hear about Google motivations for introducing it\n- you will learn how (and when) to use it. \n- you will learn all about its limitations and shortcomings. \n- you will hear a comparison to Apple's AutoLayout when I discuss the respective merits of both approaches\n- you will hear about some of the plans our friends at Google have for it.\n\nAbout the editor\n- you will see what Google has improved compared to the previous editor\n- you will hear about bug and flaws \n- you will hear some recommendations as to how to get the most out of it\n\nOf course some tips around both editor and layout complete the talk.",
+		"speakers": [
+			2
+		],
+		"tags": [
+			"Android"
+		]
+	},
+	"133": {
+		"id": 133,
+		"title": "Lunch  mit Tombola der HRS Gutscheine",
+		"description": "",
+		"speakers": [
+		],
+		"tags": [""]
+	},
+	"134": {
+		"id": 134,
+		"title": "Container Schedulers and Software Defined Storage",
+		"description": "One problem of running Enterprise Applications in container schedulers, like Apache Mesos and Kubernetes, has been making applications and their data highly available. To date, utilizing local disks on compute nodes has given us data persistence, but unfortunately does solve the data mobility problem required to make applications tolerate Agent node failures.",
+		"speakers": [
+			18
+		],
+		"tags": [
+			"Cloud & Server"
+		]
+	},
+	"135": {
+		"id": 135,
+		"title": "From mono to clean",
+		"description": "A good architecture is crucial for any software and Android apps are not different. A lot has been said about clean architectures but very few people explained how to evolve to it from a typical monolithic approach. In this talk I will guide you through my journey on how I evolved from \"mono to clean\".",
+		"speakers": [
+			4
+		],
+		"tags": [
+			"Android"
+		]
+	},
+	"136": {
+		"id": 136,
+		"title": "Connecting Microservices with gRPC",
+		"description": "gRPC is a remote procedure call (RPC) framework developed at Google that allows you to define and consume services in a fast and lightweight way by using Protocol Buffers for binary serialization. gRPC is available in a wide variety of languages and platforms both for clients and servers. During this talk you’ll see why gRPC is important for today’s microservice architectures and a walk through a concrete example of two applications communicating via gRPC from a developer standpoint.",
+		"speakers": [
+			19
+		],
+		"tags": [
+			"Cloud & Server"
+		]
+	},
+	"137": {
+		"id": 137,
+		"title": "There's no party like 3rd party - handle dependencies securely",
+		"description": "",
+		"speakers": [
+			20
+		],
+		"tags": [
+			"All"
+		]
+	}
 }

@@ -62,6 +62,10 @@
     {
       "route": "speakers",
       "permalink": "/speakers/"
+    },
+    {
+      "route": "schedule",
+      "permalink": "/schedule/"
     }
   ],
   "url": "https://hoverboard.firebaseapp.com/",
