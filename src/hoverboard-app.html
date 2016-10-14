@@ -57,9 +57,8 @@
         @apply(--layout-fixed-top);
         --app-header-background-front-layer: {
           background-image: var(--header-background-image);
+          background-position: 50% 50%;
           transition: background-image 0.5s;
-          background-position: center;
-  
         };
         --app-header-background-rear-layer: {
           background-color: var(--header-background);
@@ -68,7 +67,6 @@
         color: var(--header-color);
         transition-property: transform, background-color, color, height;
         z-index: 9;
-  
       }
 
       .image-overlay-wrapper {
@@ -119,7 +117,7 @@
       posts="{{posts}}"
     ></app-data>
 
-    <app-drawer-layout drawer-width="599px" force-narrow>
+    <app-drawer-layout id="drawerLayout" drawer-width="599px" force-narrow>
 
       <app-drawer
         id="drawer"
