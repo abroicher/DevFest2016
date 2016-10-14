@@ -46,7 +46,7 @@
 			8
 		],
 		"tags": [
-			"All"
+			"General"
 		]
 	},
 	"201": {
@@ -198,11 +198,8 @@
 	},
 	"133": {
 		"id": 133,
-		"title": "Lunch  mit Tombola der HRS Gutscheine",
-		"description": "",
-		"speakers": [
-		],
-		"tags": [""]
+		"title": "Lunch and  Raffle of HRS Vouchers",
+		"description": ""
 	},
 	"134": {
 		"id": 134,
@@ -245,7 +242,7 @@
 			20
 		],
 		"tags": [
-			"All"
+			"Community", "Web"
 		]
 	}
 }
