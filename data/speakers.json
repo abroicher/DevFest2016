@@ -1,7 +1,7 @@
 {
 	"1": {
 		"id": 1,
-		"featured": "true",
+		"featured": true,
 		"name": "Tim Messerschmidt",
 		"title": "Developer Relations",
 		"company": "Google",
@@ -25,7 +25,7 @@
 	},
 	"2": {
 		"id": 2,
-		"featured": "true",
+		"featured": false,
 		"name": "Wolfram Rittmeyer",
 		"title": "Android Developer",
 		"country": "Münster, Germany",
@@ -59,7 +59,7 @@
 	},
 	"3": {
 		"id": 3,
-		"featured": "true",
+		"featured": true,
 		"name": "Christoph Reinartz",
 		"company": "Trivago",
 		"title": "Front-End Developer  Teamlead UI/UX Engineering",
@@ -85,7 +85,7 @@
 				"link": "https://www.creinartz.de"
 			},
 			{
-				"icon": "speakerdeck",
+				"icon": "presentation",
 				"name": "Speakerdeck",
 				"link": "https://speakerdeck.com/creinartz/"
 			}
@@ -93,7 +93,7 @@
 	},
 	"4": {
 		"id": 4,
-		"featured": "true",
+		"featured": false,
 		"name": "Filipe Mendes",
 		"title": "Android Developer",
 		"country": "Lisbon, Portugal ",
@@ -125,7 +125,7 @@
 	},
 	"5": {
 		"id": 5,
-		"featured": "true",
+		"featured": false,
 		"name": "André Diermann",
 		"title": "Android Hacker",
 		"country": "Essen, Germany",
@@ -144,7 +144,7 @@
 				"link": "https://twitter.com/q2ad/"
 			},
 			{
-				"icon": "speakerdeck",
+				"icon": "website",
 				"name": "Speakerdeck",
 				"link": "https://speakerdeck.com/a11n/"
 			}
@@ -152,7 +152,7 @@
 	},
 	"6": {
 		"id": 6,
-		"featured": "true",
+		"featured": false,
 		"name": "Christoffer Noring",
 		"title": "Google Developer Expert ",
 		"photoUrl": "/images/people/ChristofferNoring.png",
@@ -187,7 +187,7 @@
 				"link": "http://lanyrd.com/profile/chris_noring/"
 			},
 			{
-				"icon": "googleplus",
+				"icon": "gplus",
 				"name": "Google+",
 				"link": "https://plus.google.com/u/0/101118035282447863367/"
 			}
@@ -196,7 +196,7 @@
 	"7": {
 		"id": 7,
 		"name": "Ivan Jukic",
-		"featured": "",
+		"featured": false,
 		"photoUrl": "https://pbs.twimg.com/profile_images/593055184273543170/-0uiX6e-.jpg",
 		"title": "Android Developer at HRS",
 		"shortBio": "Big fan of droidcon conferences.",
@@ -218,20 +218,20 @@
 				"link": "https://www.linkedin.com/in/ivan-juki%C4%87-6a549235/"
 			},
 			{
-				"icon": "googleplus",
+				"icon": "gplus",
 				"name": "Google+",
 				"link": "https://plus.google.com/u/0/+IvanJuki%C4%879/"
 			}
 		],
 		"tags": [
-			"Rockstar"
+			"Android"
 		]
 	},
 	"8": {
 		"id": 8,
 		"name": "Phillip Richdale",
 		"photoUrl": "/images/people/noProfileImage.gif",
-		"featured": "",
+		"featured": false,
 		"title": "",
 		"shortBio": "My name is Phillip Richdale and I am a consultant and a software architect.",
 		"bio": "I’m a classic computer-kid of the 80ies and grew in parallel with the micro-computer revolution. For 31 years I’ve been programming and planing software and IT projects – since the turn of the millenium as my main occupation.",
@@ -250,7 +250,7 @@
 		"id": 9,
 		"name": "Nacho",
 		"photoUrl": "https://pbs.twimg.com/profile_images/672833973488234496/skhKZS72.jpg",
-		"featured": "",
+		"featured": false,
 		"title": "",
 		"shortBio": "Nacho Coloma is Solution Engineer for Google Cloud Platform.",
 		"bio": "Nacho Coloma is Solution Engineer for Google Cloud Platform. At Google he likes to help companies solve interesting problems while taking their systems to the cloud. For some reason excited about containers, storage and web technologies.!",
@@ -269,7 +269,7 @@
 		"id": 10,
 		"name": "Mario Bodemann",
 		"photoUrl": "https://pbs.twimg.com/profile_images/704232390651211777/Bbvby1Hx.jpg",
-		"featured": "",
+		"featured": false,
 		"title": "",
 		"shortBio": "Google Developer Group Co-Organiser @Berlindroid",
 		"bio": "Google Developer Group Co-Organiser @Berlindroid\n Android and Java Evangelist @Contentful\n Software Engineer @Memorado and @HERE\n Graduate Software Engineer @Wooga\n Research Associate @HHIFraunhofer",
@@ -288,7 +288,7 @@
 	"11": {
 		"id": 11,
 		"name": "Alex",
-		"featured": "",
+		"featured": false,
 		"title": "",
 		"shortBio": "Alex is interested in a wide array of things. That's why he wants to create something completely new to share knowledge.",
 		"bio": "Alex started his career as a developer in 1982 when he wrote a program for prime numbers on his commodore vc20. In the following 30 years of doing completely different things he had still been interested in computer development, observing things –and people- changing with computer progression and evolution. He popped up at the GDG Dusseldorf in August with a flash talk about a novel way to share knowledge.",
@@ -301,12 +301,23 @@
 	"12": {
 		"id": 12,
 		"name": "Dylan Drost",
-		"photoUrl": "/images/people/noProfileImage.gif",
-		"featured": "",
-		"title": "",
+		"photoUrl": "https://lh3.googleusercontent.com/KcuYl5jFbkRYr7OSrckH3IzswvLAkO94kkrGBfLOCOpz9P4c17eqZIlqpC6dI-8Wyu72Kf515iU=w6400-h3600-rw-no",
+		"featured": true,
+		"title": "App developer",
 		"shortBio": "Android dev for five years - currently working on health care applications.",
 		"bio": "Android Developer for 5 years now. I work at Karify where we are building an online healthcare platform to help treat and manage patients in Mental healthcare. I work on the Android app and helped build the REST Api for the platform. Before I joined Karify I worked at an agency on different large and small App projects. Beside making awesome Apps I help manage the technical part of the food blog Betty’s Kitchen which is run by my wife",
-		"socials": [],
+		"socials": [
+			{
+				"icon": "github",
+				"name": "GitHub",
+				"link": "https://github.com/aegis123"
+			},
+			{
+				"icon": "gplus",
+				"name": "Google+",
+				"link": "https://plus.google.com/+dylandrost"
+			}
+		],
 		"tags": [
 			"Android"
 		]
@@ -315,7 +326,7 @@
 		"id": 13,
 		"photoUrl": "https://pbs.twimg.com/profile_images/762982974174400512/-yKhG7-1.jpg",
 		"name": "Malte Lantin",
-		"featured": "",
+		"featured": false,
 		"title": "Technical Evangelist",
 		"shortBio": "Malte Lantin lives in the beautiful Ruhr area of Germany and works at the Developer Experience group at Microsoft Germany.",
 		"bio": "He currently focuses on web technologies and the cloud. He loves exploring new technologies and discussing trends in the IT industry.",
@@ -335,7 +346,7 @@
 		"id": 14,
 		"name": "Benedikt Terhechte",
 		"photoUrl": "/images/people/BenediktTerhechte.png",
-		"featured": "",
+		"featured": false,
 		"title": "",
 		"shortBio": "Coming soon!",
 		"bio": "Coming soon!",
@@ -348,7 +359,7 @@
 		"id": 15,
 		"name": "Ralf Wondratschek",
 		"photoUrl": "https://lh3.googleusercontent.com/gm3ceL3xsvMQnZreUKporMIRYo78zTkZFYagryeRaUjnnr2en2sgTtYwB3Cvi5X72RVh7xbPsQ=w6400-h3600-rw-no",
-		"featured": "",
+		"featured": false,
 		"title": "",
 		"shortBio": "Coming soon!",
 		"bio": "Coming soon!",
@@ -378,10 +389,11 @@
 		"id": 16,
 		"name": "Oleh Zasadnyy",
 		"photoUrl": "https://pbs.twimg.com/profile_images/781522615282311168/r8YG6hFd.jpg",
-		"featured": "",
-		"title": "",
-		"shortBio": "Coming soon!",
-		"bio": "Coming soon!",
+		"featured": true,
+		"country": "Lviv, Ukraine",
+		"title": "Software engineer / Organizer",
+		"shortBio": "Oleh is a front-end developer who is passionate by new technologies and design.",
+		"bio": "He also is a GDG Lviv organizer last 5 years, which is famous for their high-level organized conferences. Besides that, he participates in GDG design competitions and always in the top three. Oleh has created several front-end Open Source projects. The most popular are event website templates, one of them you are looking at.",
 		"socials": [
 			{
 				"icon": "website",
@@ -400,17 +412,18 @@
 			}
 		],
 		"tags": [
-			"Rockstar"
+			"Web", "Design"
 		]
 	},
 	"17": {
 		"id": 17,
 		"name": "Jean-Baptiste Clion",
 		"photoUrl": "https://pbs.twimg.com/profile_images/487704707960295425/uUTNni_O.jpeg",
-		"featured": "true",
+		"country": "Basel, Switzerland",
+		"featured": true,
 		"title": "Google Develeoper Expert Cloud",
-		"shortBio": "True Google fan & Cloud technologies addict, he is always trying ...",
-		"bio": " to design & develop innovative solutions. He love to share his passion for coding, always ready to help, motivate & animate on Google technologies.",
+		"shortBio": "Jean-Baptiste Clion (AKA JB) is a senior cloud engineer working with Google Technologies since 2007.",
+		"bio": "He is the founder and co-organiser of GDG Basel, Switzerland. Jean-Baptiste worked in various industries such as Defence & Aeronautics, Finance & Consulting. In his last position, JB was Google Practice Lead at Capgemini Switzerland, he is now co-founding a startup dedicated to Progressive Web Apps solutions relying on cloud technologies.",
 		"socials": [
 			{
 				"icon": "gplus",
@@ -435,7 +448,7 @@
 	"18": {
 		"id": 18,
 		"name": "Ulrich Hölscher",
-		"featured": "",
+		"featured": false,
 		"photoUrl": "/images/people/UlrichHoelscher.jpg",
 		"title": "GDE  Web technologies and Angular.",
 		"shortBio": "Organizing 5 meetup groups with more than 2000 members. Frequent speaker, educator, blogger and developer.",
@@ -444,7 +457,7 @@
 		"image-filename": "UlrichHoelscher.jpg",
 		"socials": [
 			{
-				"icon": "youtube",
+				"icon": "website",
 				"name": "YouTube",
 				"link": "https://www.youtube.com/c/everything-as-codeDE"
 			},
@@ -462,7 +475,7 @@
 		"id": 19,
 		"name": "David Cifuentes",
 		"photoUrl": "/images/people/DavidCifuentes.jpg",
-		"featured": "",
+		"featured": false,
 		"title": "GDE Google Cloud Services",
 		"shortBio": "David is a GDE, Google Developer Expert, for Google Cloud products.",
 		"bio": "David has a bachelor degree in software engineering and a masters degree in engineering at Universidad de los Andes. For the past few years, he's been developing and deploying enterprise software and mobile games on cloud computing platforms. He is also a certified Scrum Master and Scrum Developer, and passionate about agile methodologies. David is the founder and lead organiser of the GDG Bogotá - a Google Developers Group in his hometown. In his spare time he enjoys travelling the world and biking or trail running in the mountains.",
@@ -488,7 +501,7 @@
 		"id": 20,
 		"photoUrl": "https://avatars3.githubusercontent.com/u/153481?v=3&s=400",
 		"name": "Frederic Hemberger",
-		"featured": "",
+		"featured": false,
 		"title": "",
 		"shortBio": "Frederic is a JavaScript freelancer from Cologne. During the last couple of years, ...",
 		"bio": "he became interested in web-security and since then tries to rise awareness how developers can deal with the elephant in the room.",
