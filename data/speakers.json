@@ -304,7 +304,7 @@
 		"photoUrl": "/images/people/noProfileImage.gif",
 		"featured": "",
 		"title": "",
-		"shortBio": "Alex started his career as a developer in 1982 when he wrote a program for prime numbers on his commodore vc20. In the following 30 years of doing completely different things he had still been interested in computer development, observing things –and people- changing with computer progression and evolution. He popped up at the GDG Dusseldorf in August with a flash talk about a novel way to share knowledge.",
+		"shortBio": "Android dev for five years - currently working on health care applications.",
 		"bio": "Android Developer for 5 years now. I work at Karify where we are building an online healthcare platform to help treat and manage patients in Mental healthcare. I work on the Android app and helped build the REST Api for the platform. Before I joined Karify I worked at an agency on different large and small App projects. Beside making awesome Apps I help manage the technical part of the food blog Betty’s Kitchen which is run by my wife",
 		"socials": [],
 		"tags": [
@@ -490,8 +490,8 @@
 		"name": "Frederic Hemberger",
 		"featured": "",
 		"title": "",
-		"shortBio": "Coming soon!",
-		"bio": "Coming soon!",
+		"shortBio": "Frederic is a JavaScript freelancer from Cologne. During the last couple of years, ...",
+		"bio": "he became interested in web-security and since then tries to rise awareness how developers can deal with the elephant in the room.",
 		"socials": [
 			{
 				"icon": "github",
