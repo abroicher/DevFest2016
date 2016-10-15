@@ -237,7 +237,7 @@
 	"137": {
 		"id": 137,
 		"title": "There's no party like 3rd party - handle dependencies securely",
-		"description": "",
+		"description": "Web developers use frameworks, libraries and 3rd-party services like analytics or advertising on a daily basis. But often we don't take the time to reflect how all those building blocks are affecting security. How can we take back control of what code really gets executed on our websites?",
 		"speakers": [
 			20
 		],
