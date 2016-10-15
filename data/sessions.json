@@ -1,9 +1,34 @@
 {
+	"188": {
+		"id": 188,
+		"title": "GDG DevFest Düsseldorf 2016 Opening",
+		"description": "Official start of the conference. Greetings from the organizers, sponsors and partners.",
+		"language": "English",
+		"image": "/images/backgrounds/opening.jpg"
+	},
+	"199": {
+		"id": 126,
+		"title": " Doors Open & Morning coffee",
+		"description": "Coffeeeeeee!",
+		"image": "/images/backgrounds/morning.jpg"
+	},
 	"200": {
 		"id": 200,
-		"title": "To be announced",
-		"description": "To be announced",
-		"language": "English"
+		"title": "Registration & morning Coffee",
+		"description": "Get your badge, coffee, enjoy talking with tech edicts around",
+		"image": "/images/backgrounds/registration.jpg"
+	},
+	"201": {
+		"id": 201,
+		"title": "Lunch",
+		"description": "Foooooooood!",
+		"image": "/images/backgrounds/lunch.jpg"
+	},
+	"202": {
+		"id": 202,
+		"title": "Afterparty & Networking",
+		"description": "Afterparty is a great time to have some fun and meet new people",
+		"image": "/images/backgrounds/party.jpg"
 	},
 	"111": {
 		"id": 111,
@@ -48,11 +73,6 @@
 		"tags": [
 			"General"
 		]
-	},
-	"201": {
-		"id": 201,
-		"title": "Lunch",
-		"description": "FOOOOD!!!"
 	},
 	"116": {
 		"id": 116,
@@ -119,16 +139,6 @@
 		"tags": [
 			"Android"
 		]
-	},
-	"202": {
-		"id": 202,
-		"title": "Dinner / Afterparty",
-		"description": ""
-	},
-	"199": {
-		"id": 126,
-		"title": "Doors Open & Breakfeast",
-		"description": ""
 	},
 	"127": {
 		"id": 127,
@@ -198,8 +208,9 @@
 	},
 	"133": {
 		"id": 133,
-		"title": "Lunch and  Raffle of HRS Vouchers",
-		"description": ""
+		"title": "Lunch and Raffle of HRS Vouchers",
+		"description": "Foooood and Raffle",
+		"image": "/images/backgrounds/coffee-break.jpg"
 	},
 	"134": {
 		"id": 134,
