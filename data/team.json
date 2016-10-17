@@ -3,132 +3,66 @@
     "title": "Core Team",
     "members": [
       {
-        "name": "Randy Gupta",
-        "photoUrl": "/images/people/RandyGupta.jpg",
+        "name": "Alexander Broicher",
+          "photoUrl": "/images/people/alexander_broicher.jpg",
         "socials": [
           {
             "icon": "gplus",
-            "link": "https://plus.google.com/+RandyGupta",
+            "link": "https://plus.google.com/+AlexanderBroicher",
             "name": "Google+"
           },
           {
             "icon": "twitter",
-            "link": "https://twitter.com/RandyGupta",
+            "link": "https://twitter.com/abroicher",
             "name": "Twitter"
           },
           {
             "icon": "website",
-            "link": "http://is.scaratec.com/",
+            "link": "http://alex-broicher.de/",
             "name": "Website"
           }
         ],
-        "title": "Senior Software Architect JEE"
+        "title": "Software Engineer"
       },
       {
-        "name": "Jens Hauke",
-        "photoUrl": "/images/people/JensHauke.jpg",
+          "name": "Angelo Rüggeberg",
+          "photoUrl": "/images/people/angelo_rüggeberg.jpg",
         "socials": [
           {
             "icon": "gplus",
-            "link": "https://plus.google.com/+JensHauke",
+              "link": "https://plus.google.com/+AngeloRüggeberg",
             "name": "Google+"
-          }
-        ],
-        "title": "Software Developer - Linux and Android"
-      },
-      {
-        "name": "Resul Kocyigit",
-        "photoUrl": "/images/people/ResulKocyigit.jpg",
-        "socials": [
-          {
-            "icon": "gplus",
-            "link": "https://plus.google.com/+ResulKocyigit",
-            "name": "G+"
-          }
-        ],
-        "title": "Android Developer"
-      },
-      {
-        "name": "Parththipan Thaniperumkarunai",
-        "photoUrl": "/images/people/Parthy.jpg",
-        "socials": [
-          {
-            "icon": "gplus",
-            "link": "https://plus.google.com/110646410849485506802",
-            "name": "G+"
-          },
-          {
-            "icon": "facebook",
-            "link": "https://www.facebook.com/metheparthy",
-            "name": "Facebook"
           },
           {
             "icon": "twitter",
-            "link": "https://www.twitter.com/the-parthy",
+            "link": "https://twitter.com/s3xy4ngyc",
             "name": "Twitter"
           },
           {
             "icon": "github",
-            "link": "https://github.com/theparthy",
+            "link": "http://github.com/s3xy4ngyc/",
             "name": "gitHub"
-          },
-          {
-            "icon": "website",
-            "link": "https://parthy.net",
-            "name": "Website"
           }
         ],
-        "title": "Web Developer"
+        "title": "Senior Android Developer"
       },
       {
-        "name": "Christopher Borchert",
-        "photoUrl": "/images/people/ChristopherB.jpg",
+          "name": "Albert Messmer",
+          "photoUrl": "/images/people/albert_messmer.png",
         "socials": [
           {
             "icon": "gplus",
-            "link": "https://plus.google.com/+ChristopherBDoktorDoener",
-            "name": "G+"
+              "link": "https://plus.google.com/+AlbertMessmer",
+            "name": "Google+"
           },
           {
             "icon": "twitter",
-            "link": "https://twitter.com/DoktorDoener",
+            "link": "https://twitter.com/albertmessmer",
             "name": "Twitter"
-          },
-          {
-            "icon": "website",
-            "link": "http://www.app-logik.de",
-            "name": "Website"
           }
         ],
-        "title": "Web & Mobile Developer"
-      },
-      {
-        "name": "Frederik Schweiger",
-        "photoUrl": "/images/people/FrederikSchweiger.jpg",
-        "socials": [
-          {
-            "icon": "gplus",
-            "link": "https://plus.google.com/+FrederikSchweiger",
-            "name": "G+"
-          },
-          {
-            "icon": "twitter",
-            "link": "https://www.twitter.com/flschweiger",
-            "name": "Twitter"
-          },
-          {
-            "icon": "github",
-            "link": "https://github.com/flschweiger",
-            "name": "gitHub"
-          },
-          {
-            "icon": "website",
-            "link": "http://frederik.link",
-            "name": "Website"
-          }
-        ],
-        "title": "Android Developer"
-      }
+        "title": "IT-Security"
+      }	
     ]
   }
 ]
