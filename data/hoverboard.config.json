@@ -131,12 +131,12 @@
   "teamPageText": "team-page-text",
   "statistics": [
     {
-      "counter": 300,
+      "counter": 120,
       "caption": "attendees"
     },
     {
-      "counter": 2,
-      "caption": "days"
+      "counter": 1,
+      "caption": "day"
     },
     {
       "counter": 2,
@@ -145,10 +145,6 @@
     {
       "counter": 20,
       "caption": "sessions"
-    },
-    {
-      "counter": 20,
-      "caption": "childcare"
     }
   ],
   "hashtag": "DevFestMunich",
