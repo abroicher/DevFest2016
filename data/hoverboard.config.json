@@ -3,7 +3,7 @@
     "home": {
       "headerSettings": {
         "backgroundColor": "#FF9800",
-        "backgroundImage": "/images/backgrounds/GDG_Devfest2014020-edited.jpg",
+	          "backgroundImage": "/images/backgrounds/rockstar-speakers.jpg",
         "fontColor": "#fff",
         "tabBarColor": "#fff",
         "hideLogo": true,
@@ -109,8 +109,8 @@
   "contactBlock": {
     "links": [
       {
-        "text": "info@gdg-dus.de",
-        "url": "mailto:info@gdg-dus.de"
+        "text": "info@gdg-munich.de",
+        "url": "mailto:info@gdg-munich.de"
       }
     ]
   },
@@ -151,17 +151,17 @@
       "caption": "childcare"
     }
   ],
-  "hashtag": "DevFestDus",
+  "hashtag": "DevFestMunich",
   "social": [
     {
       "name": "twitter",
-      "nickname": "gdgduesseldorf",
-      "url": "https://twitter.com/gdgduesseldorf"
+      "nickname": "gdgmunich",
+      "url": "https://twitter.com/gdgmunich"
     },
     {
       "name": "gplus",
-      "nickname": "+Gdg-dusDe",
-      "url": "https://plus.google.com/+Gdg-dusDe/"
+      "nickname": "+GDGMunich",
+      "url": "https://plus.google.com/117253870280078392257/"
     }
   ],
   "tweetsSource": "/data/tweets.json",
