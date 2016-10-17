@@ -3,8 +3,8 @@
     "title": "main-organizer",
     "logos": [
       {
-        "name": "GDG Düsseldorf",
-        "url": "https://www.gdg-dus.de",
+        "name": "GDG Munich",
+        "url": "https://www.gdg-munich.de",
         "logoUrl": "../images/gdg-logo.svg",
         "width": 300
       }
@@ -18,21 +18,6 @@
         "url": "https://www.google.com.ua/intl/en/about/",
         "logoUrl": "../images/logos/google.svg"
       },
-      {
-        "name": "Scaratec IT",
-        "url": "http://www.scaratec.de",
-        "logoUrl": "../images/logos/SCARATEC_Logo.png"
-      },
-      {
-        "name": "Sipgate GmbH",
-        "url": "https://www.sipgate.de",
-        "logoUrl": "../images/logos/sipgate_logo.png"
-      },
-      {
-        "name": "HRS",
-        "url": "https://www.hrs.de",
-        "logoUrl": "../images/logos/logo_hrs_trans.png"
-      }
     ]
   }
 ]
