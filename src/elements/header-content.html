@@ -132,9 +132,9 @@
               <iron-image class="logo" src="/images/logo-light.svg" sizing="contain" alt="GDG Munich DevFest 2016"></iron-image>
               <h3 class="dates">{{localize('dates')}}</h3>
               <h2 class="motto">{{localize('motto')}}</h2>
-              <div class="action-buttons">
-                <paper-button class="primary" on-tap="_scrollToTickets" raised>{{localize('buy-ticket')}}</paper-button>
-              </div>
+              <!-- <div class="action-buttons"> -->
+              <!--   <paper-button class="primary" on-tap="_scrollToTickets" raised>{{localize('buy-ticket')}}</paper-button> -->
+              <!-- </div> -->
             </div>
           </div>
         </animatable-content>
@@ -200,14 +200,14 @@
           HOVERBOARD.Analytics.trackEvent('video', 'watch', this.app.data.pages.home.headerSettings.video.title);
         },
 
-        _scrollToTickets: function () {
-          HOVERBOARD.Analytics.trackEvent('ticket', 'buy_click', 'header');
-          Polymer.AppLayout.scroll({
-            top: HOVERBOARD.Elements.Tickets.getBoundingClientRect().top,
-            behavior: 'smooth',
-            target: HOVERBOARD.Elements.Scroller
-          });
-        }
+        <!-- _scrollToTickets: function () { -->
+        <!--   HOVERBOARD.Analytics.trackEvent('ticket', 'buy_click', 'header'); -->
+        <!--   Polymer.AppLayout.scroll({ -->
+        <!--     top: HOVERBOARD.Elements.Tickets.getBoundingClientRect().top, -->
+        <!--     behavior: 'smooth', -->
+        <!--     target: HOVERBOARD.Elements.Scroller -->
+        <!--   }); -->
+        <!-- } -->
 
       });
 

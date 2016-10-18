@@ -3,7 +3,7 @@
     "home": {
       "headerSettings": {
         "backgroundColor": "#FF9800",
-	          "backgroundImage": "/images/backgrounds/rockstar-speakers.jpg",
+	  "backgroundImage": "/images/backgrounds/twitter-feed.jpg",
         "fontColor": "#fff",
         "tabBarColor": "#fff",
         "hideLogo": true,
@@ -69,11 +69,7 @@
     }
   ],
   "url": "https://hoverboard.firebaseapp.com/",
-  "mailchimp": {
-    "url": "https://gdg.us11.list-manage.com/subscribe/post?u=b7e853a79164ddfdbda3ed77b&amp;id=7993e39fbe",
-    "name": "b_b7e853a79164ddfdbda3ed77b_7993e39fbe"
-  },
-  "partnershipProposition": "http://bit.ly/df16-sponsor",
+  "partnershipProposition": "",
   "disqusShortName": "",
   "languages": [
     {
@@ -99,8 +95,28 @@
           "newTab": true
         },
         {
-          "text": "df-14",
-          "url": "http://www.gdg-dus.de/DevFest2014/",
+          "text": "df-15",
+          "url": "http://s3xy4ngyc.github.io/zeppelin/",
+          "newTab": true
+        },
+        {
+          "text": "GDG Munich Android",
+          "url": "https://developers.google.com/groups/chapter/115160714098008559164/",
+          "newTab": true
+        },
+        {
+          "text": "GDG Munich Golang",
+          "url": "https://developers.google.com/groups/chapter/118437453443992444509/",
+          "newTab": true
+        },
+        {
+          "text": "GDG Augsburg",
+          "url": "https://developers.google.com/groups/chapter/115055410376816588493/",
+          "newTab": true
+        },
+        {
+          "text": "GDG Regensburg",
+          "url": "https://developers.google.com/groups/chapter/105059823716723829232/",
           "newTab": true
         }
       ]
@@ -111,19 +127,6 @@
       {
         "text": "info@gdg-munich.de",
         "url": "mailto:info@gdg-munich.de"
-      }
-    ]
-  },
-  "tickets": {
-    "url": "https://www.eventbrite.de/e/gdgdus-devfest2016-weekend-tickets-27623283986",
-    "elements": [
-      {
-        "name": "two-day-conference-pass",
-        "price": 10,
-        "currency": "€",
-        "starts": "two-day-conference-pass-starts",
-        "ends": "two-day-conference-pass-ends",
-        "soldOut": false
       }
     ]
   },
@@ -143,7 +146,7 @@
       "caption": "tracks"
     },
     {
-      "counter": 20,
+      "counter": 10,
       "caption": "sessions"
     }
   ],
@@ -162,37 +165,37 @@
   ],
   "tweetsSource": "/data/tweets.json",
   "gallery": {
-    "albumUrl": "https://plus.google.com/events/gallery/cc6tosp4ohkp6qj9pg5jb4g6o3k?sort=1",
+    "albumUrl": "https://get.google.com/u/0/albumarchive/117253870280078392257",
     "photos": {
-      "big": "/images/backgrounds/GDG_Devfest2014004.jpg",
-      "small": [
-        "/images/backgrounds/GDG_Devfest2014001.jpg",
-        "/images/backgrounds/GDG_Devfest2014066.jpg"
+      "big": "/images/backgrounds/rockstar-speakers.jpg",
+	"small": [
+	    "/images/backgrounds/2015-10-16.jpg",
+        "/images/backgrounds/IMG_20151016_183641165.jpg",
+          "/images/backgrounds/IMG_20151016_183654041.jpg",
+	  "/images/backgrounds/IMG_20151016_184206881.jpg",
+	  "/images/backgrounds/IMG_20151016_184217674.jpg"
       ]
     }
   },
   "location": {
     "apiKey": "",
-    "link": "https://www.facebook.com/expopivdennij",
+    "link": "",
     "pointer": {
-      "latitude": 51.212235,
-      "longitude": 6.755673,
+      "latitude": 48.137154,
+      "longitude": 11.576124,
       "zoom": 15
     },
     "mapCenter": {
-      "latitude": 51.211771,
-      "longitude":  6.763699
+      "latitude": 48.137154,
+      "longitude":  11.576124
     },
-    "images": [
-      "/images/backgrounds/Sipgate_1.JPG",
-      "/images/backgrounds/Sipgate_2.JPG",
-      "/images/backgrounds/Sipgate_3.JPG",
-      "/images/backgrounds/Sipgate_4.JPG"
+      "images": [
+	  "/images/backgrounds/twitter-feed.jpg"
     ]
   },
-  "videosSessionsUrl": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AX3-ONkkWmDOZezu9Cmnv",
+  "videosSessionsUrl": "",
   "callToAction": {
     "videoTitle": "action-title",
-    "videoId": "DfMnJAzOFng"
+    "videoId": ""
   }
 }

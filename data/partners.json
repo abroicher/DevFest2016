@@ -6,7 +6,15 @@
         "name": "GDG Munich",
         "url": "https://www.gdg-munich.de",
         "logoUrl": "../images/gdg-logo.svg",
-        "width": 300
+          "width": 300,
+	  "height": 300
+      }
+      {
+        "name": "GDG Augsburg",
+        "url": "https://www.gdg-munich.de",
+        "logoUrl": "../images/gdg-logo.svg",
+          "width": 300,
+	  "height": 300
       }
     ]
   },
@@ -17,7 +25,9 @@
         "name": "Google",
         "url": "https://www.google.com.ua/intl/en/about/",
         "logoUrl": "../images/logos/google.svg"
-      },
+          "width": 300,
+	  "height": 300
+      }
     ]
   }
 ]

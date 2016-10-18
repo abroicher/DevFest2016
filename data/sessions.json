@@ -1,260 +1,135 @@
 {
-	"188": {
-		"id": 188,
-		"title": "GDG DevFest Düsseldorf 2016 Opening",
+	"1": {
+		"id": 1,
+		"title": "GDG DevFest Munich 2016 Opening",
 		"description": "Official start of the conference. Greetings from the organizers, sponsors and partners.",
 		"language": "English",
 		"image": "/images/backgrounds/opening.jpg"
 	},
-	"199": {
-		"id": 126,
-		"title": " Doors Open & Morning coffee",
-		"description": "Coffeeeeeee!",
-		"image": "/images/backgrounds/morning.jpg"
-	},
-	"200": {
-		"id": 200,
-		"title": "Registration & morning Coffee",
-		"description": "Get your badge, coffee, enjoy talking with tech edicts around",
-		"image": "/images/backgrounds/registration.jpg"
-	},
-	"201": {
-		"id": 201,
-		"title": "Lunch",
-		"description": "Foooooooood!",
+	"2": {
+		"id": 2,
+		"title": "Lunch Break",
+		"description": "Resting and recharging",
 		"image": "/images/backgrounds/lunch.jpg"
 	},
-	"202": {
-		"id": 202,
-		"title": "Afterparty & Networking",
-		"description": "Afterparty is a great time to have some fun and meet new people",
-		"image": "/images/backgrounds/party.jpg"
+	"3": {
+		"id": 3,
+		"title": "Outlook & Networking",
+		"description": "A great time to have some fun and meet new people",
+	    "image": "/images/backgrounds/party.jpg",
+	    		"language": "English"
 	},
-	"111": {
-		"id": 111,
-		"title": "Firebase Overview",
-		"description": "Firebase is a mobile platform that helps you quickly develop high-quality apps, grow your user base, and earn more money. It is made up of complementary features that you can mix-and-match to fit your needs. In this session, Tim will run you through the 15 different features that help you build an effectively scaling and high-performing application that works equally well on Android, iOS and the web.",
+	"101": {
+		"id": 101,
+		"title": "Big Thrones: The power of Machine Learning",
+	    "description": "Early this year a group of students (and their mentors) from the TU Munich decided to take on a unique challenge - use machine learning to predict the likelihood of death for the characters in the HBO hit show “Game of Thrones”. In this talk we will give an insight into a 50 days journey that ended up with a result that has been featured in news media across the world, including Time, The Guardian, BBC and more. If you happen to be a data geek or a Game of Thrones nerd (or both) this talk is for you!",
+	    "language": "English",
 		"speakers": [
-			1
+		    1,
+		    2
 		],
 		"tags": [
-			"Cloud"
+			"Machine learning", "JavaScript"
 		]
 	},
-	"112": {
-		"id": 112,
-		"title": "Angular 2 fundamentals and the role of rxjs",
-		"description": "Angular 2 just became production ready. It is quite different from angular 1. It is however built with large applications in mind and utlizes most modern web concepts. It is blazingly fast and uses typescript as a first class citizen, just to name a few things. It also uses rxjs in front of promises. It is a different paradigm meant to fix issues with promises. Be prepared to become somewhat wiser as to what all these new concepts add to your developer experience.",
+    "201": {
+	    "id": 201,
+	    "title": "TBA",
+	    "description": "TBA",
+	    "language": "English",
 		"speakers": [
-			6
+		    0
 		],
 		"tags": [
-			"Web"
 		]
 	},
-	"113": {
-		"id": 113,
-		"title": "FillTheForm 2.0",
-		"description": "",
-		"speakers": [
-			7
-		],
-		"tags": [
-			"Android"
-		]
-	},
-	"114": {
-		"id": 114,
-		"title": "How to do Scrum without killing yourself",
-		"description": "The point of Scrum, how to do it and the results to expect.",
-		"speakers": [
-			8
-		],
-		"tags": [
-			"General"
-		]
-	},
-	"116": {
-		"id": 116,
-		"title": "Lessons learnt with containers: from Borg to Kubernetes",
-		"description": "Learn how simple it is to deploy and manage your clusters using Kubernetes, the next generation tool built on ten years of experience with containers at Google.",
-		"speakers": [
-			9
-		],
-		"tags": [
-			"Cloud"
-		]
-	},
-	"117": {
-		"id": 117,
-		"title": "Daydreaming about Cardboards: Vr on Android",
-		"description": "On this year's IO Google announced Daydream, a new way of integrating your apps with Virtual Reality. We will talk VR on Android and will be live coding emphasizing the differences and similarities between SDKs. I'll also introduce Daydream. ",
-		"speakers": [
-			10
-		],
-		"tags": [
-			"Android"
-		]
-	},
-	"118": {
-		"id": 118,
-		"title": "Rebuilding an aircraft on the fly",
-		"description": "At trivago we started with an iterative rebuild of our user interface in the beginning of 2015. Next to establishing a pattern library and thereby introducing a Design System we started to rethink the way we build our user interfaces in code and design. We adapted several methologies like Atomic Design, changed our design development workflows, did a CSS refactoring - called Project Ironman - , improved our frontend stack and changed the way we build our assets and started to rebuild the core UI components of our main product in 2016.\n\nThis talk will provide insights in our journey with rebuilding our UI at large scale in an iterative way. It will present the challenges we encountered in code, design and our processes and how we solved them. The outcome will be highlighted with real data and some of our business metrics. However it will also show some of our mistakes we did while integrating the Design System and will present the lessons we have learned out of that.",
+	"102": {
+	    "id": 102,
+	    	"title": "Microservices in Google App Engine",
+	    "description": "Microservices is coming with a certain workload and constraints. Let's try to see how Google Cloud Platform and App Engine can help the overall microservices implementation.",
+	    "language": "English",
 		"speakers": [
 			3
 		],
 		"tags": [
-			"Web"
+		    "Cloud",
+		    "App Engine",
+		    "Microservice"
 		]
 	},
-	"119": {
-		"id": 119,
-		"title": "World Knowledge Map",
-		"description": "Somewhere between Geocaching, Wikipedia and Pokémon Go: why not creating a (game to build up a) World Knowledge Map? \nIt's about an Internet platform and a mobile App that combines collecting and sharing Knowledge with a super-addictive game. Why not hunting Knowledge instead of plastic boxes or virtual bunnies? This talk is about the basic idea of a new game concept and how it could be developed. The audience is asked to participate with criticism, interest and experience. \n\n",
+	"202": {
+		"id": 202,
+		"title": "TBA",
+		"description": "TBA",
 		"speakers": [
-			11
+			0
 		],
 		"tags": [
-			"Android"
 		]
 	},
-	"120": {
-		"id": 120,
-		"title": "Hands-on Realm",
-		"description": "Do you know Realm? Realm is a new, open source, cross-platform mobile database technology. It is used by more than 1 billion people already. Its objective is to simplify, speed-up and improve mobile application development. At least, this is what they state at their website. But do they provide what they promise? And how does it work? What’s so new with Realm?",
-		"speakers": [
-			5
-		],
-		"tags": [
-			"Android"
-		]
-	},
-	"121": {
-		"id": 121,
-		"title": "Use code generation to make better apps",
-		"description": "Always wondered what the big companies like Google, Square or Twitter use when building their apps? Stop wasting your time writing boilerplate code and start using the power of code generation tools and libraries like AutoValue, Dagger, SQLdelight, requery and Annotation processing.",
-		"speakers": [
-			12
-		],
-		"tags": [
-			"Android"
-		]
-	},
-	"127": {
-		"id": 127,
-		"title": "Build more personal and intelligent applications that see, hear and understand",
-		"description": "",
-		"speakers": [
-			13
-		],
-		"tags": [
-			"Cloud"
-		]
-	},
-	"128": {
-		"id": 128,
-		"title": "Swift on the Server",
-		"description": "",
-		"speakers": [
-			14
-		],
-		"tags": [
-			"Cloud"
-		]
-	},
-	"129": {
-		"id": 129,
-		"title": "Android - Schedule background jobs at the right time",
-		"description": "Android provides three different APIs to run jobs in the future. All of them have their benefits and downsides. Semantic changes between API levels presents an additional challenge for programmers. Not only is it hard to know when to use the proper API, but you will also end up with many different paths in your code all doing the same task for different environments. Your app should be smart and run jobs only when it's the right time and all conditions are met. This talk will give you an overview about all options you have on Android and how to master them in an efficient way.",
-		"speakers": [
-			15
-		],
-		"tags": [
-			"Android"
-		]
-	},
-	"130": {
-		"id": 130,
-		"title": "Make your Polymer web-app Progressive",
-		"description": "Polymer helps you organize your app and make it more meaningful. In this talk, I will show you how to make your app load faster with app shell, lazy loading etc. and another Tip and Tricks in PWA.\n\n",
-		"speakers": [
-			16
-		],
-		"tags": [
-			"Web"
-		]
-	},
-	"131": {
-		"id": 131,
-		"title": "Microservices in Google App Engine",
-		"description": "Microservices is coming with a certain workload and constraints. Let's try to see how Google Cloud Platform and App Engine can help the overall microservices implementation.",
-		"speakers": [
-			17
-		],
-		"tags": [
-			"Cloud"
-		]
-	},
-	"132": {
-		"id": 132,
-		"title": "Grokking Android's ConstraintLayout",
-		"description": "In this talk I'm going to introduce you to the new ConstraintLayout and the new layout editor coming with Android Studio 2.2.\n\nAbout the ConstraintLayout\n- you will hear about Google motivations for introducing it\n- you will learn how (and when) to use it. \n- you will learn all about its limitations and shortcomings. \n- you will hear a comparison to Apple's AutoLayout when I discuss the respective merits of both approaches\n- you will hear about some of the plans our friends at Google have for it.\n\nAbout the editor\n- you will see what Google has improved compared to the previous editor\n- you will hear about bug and flaws \n- you will hear some recommendations as to how to get the most out of it\n\nOf course some tips around both editor and layout complete the talk.",
-		"speakers": [
-			2
-		],
-		"tags": [
-			"Android"
-		]
-	},
-	"133": {
-		"id": 133,
-		"title": "Lunch and Raffle of HRS Vouchers",
-		"description": "Foooood and Raffle",
-		"image": "/images/backgrounds/coffee-break.jpg"
-	},
-	"134": {
-		"id": 134,
-		"title": "Container Schedulers and Software Defined Storage",
-		"description": "One problem of running Enterprise Applications in container schedulers, like Apache Mesos and Kubernetes, has been making applications and their data highly available. To date, utilizing local disks on compute nodes has given us data persistence, but unfortunately does solve the data mobility problem required to make applications tolerate Agent node failures.",
-		"speakers": [
-			18
-		],
-		"tags": [
-			"Cloud"
-		]
-	},
-	"135": {
-		"id": 135,
-		"title": "From mono to clean",
-		"description": "A good architecture is crucial for any software and Android apps are not different. A lot has been said about clean architectures but very few people explained how to evolve to it from a typical monolithic approach. In this talk I will guide you through my journey on how I evolved from \"mono to clean\".",
+	"103": {
+		"id": 103,
+	    "title": "3D Trust and secure distribution of 3D printing",
+	    "description": "TBA",
+	    "language": "English",
 		"speakers": [
 			4
 		],
-		"tags": [
-			"Android"
+	    "tags": [
+		"Security"
 		]
 	},
-	"136": {
-		"id": 136,
-		"title": "Connecting Microservices with gRPC",
-		"description": "gRPC is a remote procedure call (RPC) framework developed at Google that allows you to define and consume services in a fast and lightweight way by using Protocol Buffers for binary serialization. gRPC is available in a wide variety of languages and platforms both for clients and servers. During this talk you’ll see why gRPC is important for today’s microservice architectures and a walk through a concrete example of two applications communicating via gRPC from a developer standpoint.",
+	"203": {
+		"id": 203,
+		"title": "TBA",
+		"description": "TBA",
 		"speakers": [
-			19
+			0
 		],
 		"tags": [
-			"Cloud"
 		]
 	},
-	"137": {
-		"id": 137,
-		"title": "There's no party like 3rd party - handle dependencies securely",
-		"description": "Web developers use frameworks, libraries and 3rd-party services like analytics or advertising on a daily basis. But often we don't take the time to reflect how all those building blocks are affecting security. How can we take back control of what code really gets executed on our websites?",
+	"104": {
+	    "id": 104,
+	    "title": "See the world like a Terminator T-800: Augmented Reality with Oculus Rift/HoloLens",
+	    "description": "The goal was to build a device made with off-the-shelf hardware in one working day. Within this short period of time eleven TNG software consultants were able to implement a prototype which is based on an Oculus Rift DK2 and an Intel RealSense F200 3D-camera. With some additional days and a core team of about six TNG software developers we were able to add some more features for the Augmented Rift.",
+	    "language": "English",
 		"speakers": [
-			20
+			0
+		],
+	    "tags": [
+		"Augmented Reality",
+		    "Oculus Rift","HoloLens"
+		]
+	},
+	"204": {
+		"id": 204,
+		"title": "TBA",
+		"description": "TBA",
+		"speakers": [
+			0
 		],
 		"tags": [
-			"Community",
-			"Web"
+		]
+	},
+    	"105": {
+		"id": 105,
+	    "title": "Google Analytics, Adwords",
+		"description": "",
+		"speakers": [
+			0
+		],
+		"tags": [
+		]
+	},
+	"205": {
+		"id": 205,
+		"title": "TBA",
+		"description": "TBA",
+		"speakers": [
+			0
+		],
+		"tags": [
 		]
 	}
 }
